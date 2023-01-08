@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>osTicket Installation</h1>
 This demostration outlines the installation of the open-source help desk ticketing system osTicket.<br />
 
 
@@ -17,6 +17,7 @@ This demostration outlines the installation of the open-source help desk ticketi
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+
 
 
 <h2>Installation Steps</h2>
